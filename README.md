@@ -4,9 +4,9 @@
 <a href="https://www.linkedin.com/in/akshaykumar13/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="akshaykumar" height="20" width="20" /></a>&nbsp;
 <a href="https://www.imakshaykumar.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.18.0/icons/robotframework.svg" alt="akshaykumar" height="20" width="20" /></a>
 </p>
-
+<!-- 
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
-
+ -->
 ### 🤵 About Me:
 - 🏦 I'm currently working in Infosys where i make Healtcare applications using React/Redux. 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
