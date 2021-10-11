@@ -39,6 +39,7 @@
 ---
 ### 🐱My Github stats:
 ![Akshay's github stats](https://github-readme-stats.vercel.app/api?username=imakshay13&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
+-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvtyagi&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/imakshay13/github-readme-stats)
 
 ### 📕 My Latest Blog posts:
