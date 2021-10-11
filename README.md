@@ -16,6 +16,9 @@
 - 😄 Pronouns: He/Him
 - 👯 We can connect on [Chess.com](https://www.chess.com/member/imakshay13)♟ to play some games
 
+---
+
+
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="45" height="40"/> 
