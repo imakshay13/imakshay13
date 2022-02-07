@@ -14,8 +14,6 @@
 - 🤔 I use daily .jsx , .js , .ts , .css , .html
 - 🌱 I’m currently learning docker and kubernetes
 - 💬 Talk to me about football, web and silicon valley
-- 😄 Pronouns: He/Him
-- 👯 We can connect on [Chess.com](https://www.chess.com/member/imakshay13)♟ to play some games
 
 ---
 
